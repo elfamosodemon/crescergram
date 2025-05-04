@@ -1,0 +1,2502 @@
+.elementor-1359 .elementor-element.elementor-element-8adcd4d:not(.elementor-motion-effects-element-type-background),
+.elementor-1359 .elementor-element.elementor-element-8adcd4d>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+	background-color: #d62976;
+
+}
+
+.elementor-1359 .elementor-element.elementor-element-8adcd4d>.elementor-container {
+	max-width: 1043px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-8adcd4d {
+	transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-1359 .elementor-element.elementor-element-8adcd4d>.elementor-background-overlay {
+	transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-widget-image .widget-image-caption {
+	color: var(--e-global-color-text);
+	font-family: var(--e-global-typography-text-font-family), Sans-serif;
+	font-weight: var(--e-global-typography-text-font-weight);
+}
+
+.elementor-1359 .elementor-element.elementor-element-5312c96>.elementor-widget-container {
+	margin: 28px 0px 0px 0px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-5312c96 {
+	text-align: left;
+}
+
+.elementor-1359 .elementor-element.elementor-element-5312c96 img {
+	width: 39%;
+	max-width: 45%;
+}
+
+.elementor-widget-nav-menu .elementor-nav-menu .elementor-item {
+	font-family: var(--e-global-typography-primary-font-family), Sans-serif;
+	font-weight: var(--e-global-typography-primary-font-weight);
+}
+
+.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item {
+	color: var(--e-global-color-text);
+	fill: var(--e-global-color-text);
+}
+
+.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item:hover,
+.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item.elementor-item-active,
+.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item.highlighted,
+.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item:focus {
+	color: var(--e-global-color-accent);
+	fill: var(--e-global-color-accent);
+}
+
+.elementor-widget-nav-menu .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:before,
+.elementor-widget-nav-menu .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:after {
+	background-color: var(--e-global-color-accent);
+}
+
+.elementor-widget-nav-menu .e--pointer-framed .elementor-item:before,
+.elementor-widget-nav-menu .e--pointer-framed .elementor-item:after {
+	border-color: var(--e-global-color-accent);
+}
+
+.elementor-widget-nav-menu {
+	--e-nav-menu-divider-color: var(--e-global-color-text);
+}
+
+.elementor-widget-nav-menu .elementor-nav-menu--dropdown .elementor-item,
+.elementor-widget-nav-menu .elementor-nav-menu--dropdown .elementor-sub-item {
+	font-family: var(--e-global-typography-accent-font-family), Sans-serif;
+	font-weight: var(--e-global-typography-accent-font-weight);
+}
+
+.elementor-1359 .elementor-element.elementor-element-df353cb .elementor-menu-toggle {
+	margin-left: auto;
+}
+
+.elementor-1359 .elementor-element.elementor-element-df353cb .elementor-nav-menu .elementor-item {
+	font-family: "Poppins", Sans-serif;
+	font-weight: 400;
+}
+
+.elementor-1359 .elementor-element.elementor-element-df353cb .elementor-nav-menu--main .elementor-item {
+	color: #FFFFFF;
+	fill: #FFFFFF;
+}
+
+.elementor-1359 .elementor-element.elementor-element-df353cb .elementor-nav-menu--dropdown a,
+.elementor-1359 .elementor-element.elementor-element-df353cb .elementor-menu-toggle {
+	color: #FFFFFF;
+}
+
+.elementor-1359 .elementor-element.elementor-element-df353cb .elementor-nav-menu--dropdown {
+	background-color: #d62976;
+}
+
+.elementor-1359 .elementor-element.elementor-element-df353cb .elementor-nav-menu--dropdown .elementor-item,
+.elementor-1359 .elementor-element.elementor-element-df353cb .elementor-nav-menu--dropdown .elementor-sub-item {
+	font-family: "Roboto", Sans-serif;
+	font-weight: 500;
+}
+
+.elementor-1359 .elementor-element.elementor-element-21fef70c:not(.elementor-motion-effects-element-type-background),
+.elementor-1359 .elementor-element.elementor-element-21fef70c>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+	background-color: transparent;
+	background-image: linear-gradient(180deg, #d62976 0%, #d62976 60%, #fa7e1e 100%);
+
+
+}
+
+.elementor-1359 .elementor-element.elementor-element-21fef70c>.elementor-container {
+	max-width: 1147px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-21fef70c {
+	transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-1359 .elementor-element.elementor-element-21fef70c>.elementor-background-overlay {
+	transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-1359 .elementor-element.elementor-element-21fef70c>.elementor-shape-bottom svg {
+	width: calc(100% + 1.3px);
+	height: 152px;
+	transform: translateX(-50%) rotateY(180deg);
+}
+
+.elementor-1359 .elementor-element.elementor-element-352df90d {
+	--spacer-size: 93px;
+}
+
+.elementor-widget-text-editor {
+	color: var(--e-global-color-text);
+	font-family: var(--e-global-typography-text-font-family), Sans-serif;
+	font-weight: var(--e-global-typography-text-font-weight);
+}
+
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap {
+	background-color: var(--e-global-color-primary);
+}
+
+.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap,
+.elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap {
+	color: var(--e-global-color-primary);
+	border-color: var(--e-global-color-primary);
+}
+
+.elementor-1359 .elementor-element.elementor-element-7d05ff8 {
+	text-align: center;
+	color: #FFFFFF;
+	font-family: "Poppins", Sans-serif;
+	font-size: 15px;
+	font-weight: 400;
+}
+
+.elementor-1359 .elementor-element.elementor-element-10f6b9ca {
+	--spacer-size: 10px;
+}
+
+.elementor-widget-heading .elementor-heading-title {
+	color: var(--e-global-color-primary);
+	font-family: var(--e-global-typography-primary-font-family), Sans-serif;
+	font-weight: var(--e-global-typography-primary-font-weight);
+}
+
+.elementor-1359 .elementor-element.elementor-element-2718d5b8 {
+	text-align: center;
+}
+
+.elementor-1359 .elementor-element.elementor-element-2718d5b8 .elementor-heading-title {
+	color: #FFFFFF;
+	font-family: "Poppins", Sans-serif;
+	font-size: 39px;
+	font-weight: 700;
+	text-shadow: 0px 0px 9px rgba(34.50000000000001, 34.50000000000001, 34.50000000000001, 0.31);
+}
+
+.elementor-1359 .elementor-element.elementor-element-764f5b7e {
+	text-align: center;
+	color: #FFFFFF;
+	font-family: "Poppins", Sans-serif;
+	font-size: 15px;
+	font-weight: 400;
+}
+
+.elementor-1359 .elementor-element.elementor-element-c4649ec {
+	--spacer-size: 10px;
+}
+
+.elementor-widget-button .elementor-button {
+	background-color: var(--e-global-color-accent);
+	font-family: var(--e-global-typography-accent-font-family), Sans-serif;
+	font-weight: var(--e-global-typography-accent-font-weight);
+}
+
+.elementor-1359 .elementor-element.elementor-element-11d1bab3 .elementor-button {
+	background-color: #FFFFFF;
+	font-family: "Poppins", Sans-serif;
+	font-weight: 500;
+	fill: #d62976;
+	color: #d62976;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.elementor-1359 .elementor-element.elementor-element-11d1bab3>.elementor-widget-container {
+	margin: -15px 0px 0px 0px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-11d1bab3 .elementor-button-content-wrapper {
+	flex-direction: row;
+}
+
+.elementor-1359 .elementor-element.elementor-element-179bcabc {
+	--spacer-size: 10px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-62055078 {
+	--spacer-size: 23px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-7fff2a80 img {
+	width: 74%;
+	max-width: 77%;
+}
+
+.elementor-1359 .elementor-element.elementor-element-228ca160 {
+	--spacer-size: 128px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-4351438d>.elementor-container {
+	max-width: 1011px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-5f5875a7 {
+	--spacer-size: 10px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-229cb054 {
+	text-align: center;
+}
+
+.elementor-1359 .elementor-element.elementor-element-229cb054 .elementor-heading-title {
+	color: #d62976;
+	font-family: "Poppins", Sans-serif;
+	font-size: 35px;
+	font-weight: 700;
+}
+
+.elementor-1359 .elementor-element.elementor-element-5e598e26 {
+	text-align: center;
+}
+
+.elementor-1359 .elementor-element.elementor-element-5e598e26 .elementor-heading-title {
+	color: #d62976;
+	font-family: "Poppins", Sans-serif;
+	font-size: 15px;
+	font-weight: 400;
+}
+
+.elementor-1359 .elementor-element.elementor-element-468b2533 {
+	--spacer-size: 35px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-72f88503>.elementor-container {
+	max-width: 1113px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-72f88503 {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-6ca81039>.elementor-element-populated {
+	transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-1359 .elementor-element.elementor-element-6ca81039>.elementor-element-populated>.elementor-background-overlay {
+	transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-widget-icon-box.elementor-view-stacked .elementor-icon {
+	background-color: var(--e-global-color-primary);
+}
+
+.elementor-widget-icon-box.elementor-view-framed .elementor-icon,
+.elementor-widget-icon-box.elementor-view-default .elementor-icon {
+	fill: var(--e-global-color-primary);
+	color: var(--e-global-color-primary);
+	border-color: var(--e-global-color-primary);
+}
+
+.elementor-widget-icon-box .elementor-icon-box-title {
+	color: var(--e-global-color-primary);
+}
+
+.elementor-widget-icon-box .elementor-icon-box-title,
+.elementor-widget-icon-box .elementor-icon-box-title a {
+	font-family: var(--e-global-typography-primary-font-family), Sans-serif;
+	font-weight: var(--e-global-typography-primary-font-weight);
+}
+
+.elementor-widget-icon-box .elementor-icon-box-description {
+	color: var(--e-global-color-text);
+	font-family: var(--e-global-typography-text-font-family), Sans-serif;
+	font-weight: var(--e-global-typography-text-font-weight);
+}
+
+.elementor-1359 .elementor-element.elementor-element-3b3f7d9 .elementor-icon-box-wrapper {
+	text-align: center;
+}
+
+.elementor-1359 .elementor-element.elementor-element-3b3f7d9 {
+	--icon-box-icon-margin: 4px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-3b3f7d9 .elementor-icon-box-title {
+	margin-bottom: 8px;
+	color: #d62976;
+}
+
+.elementor-1359 .elementor-element.elementor-element-3b3f7d9.elementor-view-stacked .elementor-icon {
+	background-color: #d62976;
+}
+
+.elementor-1359 .elementor-element.elementor-element-3b3f7d9.elementor-view-framed .elementor-icon,
+.elementor-1359 .elementor-element.elementor-element-3b3f7d9.elementor-view-default .elementor-icon {
+	fill: #d62976;
+	color: #d62976;
+	border-color: #d62976;
+}
+
+.elementor-1359 .elementor-element.elementor-element-3b3f7d9 .elementor-icon {
+	font-size: 63px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-3b3f7d9 .elementor-icon i {
+	transform: rotate(0deg);
+}
+
+.elementor-1359 .elementor-element.elementor-element-3b3f7d9 .elementor-icon-box-title,
+.elementor-1359 .elementor-element.elementor-element-3b3f7d9 .elementor-icon-box-title a {
+	font-family: "Poppins", Sans-serif;
+	font-size: 15px;
+	font-weight: 600;
+}
+
+.elementor-1359 .elementor-element.elementor-element-3b3f7d9 .elementor-icon-box-description {
+	color: #d62976;
+	font-family: "Poppins", Sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 1.3em;
+	letter-spacing: 0.1px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-619ca99c>.elementor-element-populated {
+	transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-1359 .elementor-element.elementor-element-619ca99c>.elementor-element-populated>.elementor-background-overlay {
+	transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-1359 .elementor-element.elementor-element-e22c380 .elementor-icon-box-wrapper {
+	text-align: center;
+}
+
+.elementor-1359 .elementor-element.elementor-element-e22c380 {
+	--icon-box-icon-margin: 6px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-e22c380 .elementor-icon-box-title {
+	margin-bottom: 8px;
+	color: #d62976;
+}
+
+.elementor-1359 .elementor-element.elementor-element-e22c380.elementor-view-stacked .elementor-icon {
+	background-color: #d62976;
+}
+
+.elementor-1359 .elementor-element.elementor-element-e22c380.elementor-view-framed .elementor-icon,
+.elementor-1359 .elementor-element.elementor-element-e22c380.elementor-view-default .elementor-icon {
+	fill: #d62976;
+	color: #d62976;
+	border-color: #d62976;
+}
+
+.elementor-1359 .elementor-element.elementor-element-e22c380 .elementor-icon {
+	font-size: 63px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-e22c380 .elementor-icon i {
+	transform: rotate(0deg);
+}
+
+.elementor-1359 .elementor-element.elementor-element-e22c380 .elementor-icon-box-title,
+.elementor-1359 .elementor-element.elementor-element-e22c380 .elementor-icon-box-title a {
+	font-family: "Poppins", Sans-serif;
+	font-size: 15px;
+	font-weight: 600;
+}
+
+.elementor-1359 .elementor-element.elementor-element-e22c380 .elementor-icon-box-description {
+	color: #d62976;
+	font-family: "Poppins", Sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 1.3em;
+	letter-spacing: 0.1px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-77f43908>.elementor-element-populated {
+	transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-1359 .elementor-element.elementor-element-77f43908>.elementor-element-populated>.elementor-background-overlay {
+	transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-1359 .elementor-element.elementor-element-2b4a226d .elementor-icon-box-wrapper {
+	text-align: center;
+}
+
+.elementor-1359 .elementor-element.elementor-element-2b4a226d {
+	--icon-box-icon-margin: 7px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-2b4a226d .elementor-icon-box-title {
+	margin-bottom: 8px;
+	color: #d62976;
+}
+
+.elementor-1359 .elementor-element.elementor-element-2b4a226d.elementor-view-stacked .elementor-icon {
+	background-color: #d62976;
+}
+
+.elementor-1359 .elementor-element.elementor-element-2b4a226d.elementor-view-framed .elementor-icon,
+.elementor-1359 .elementor-element.elementor-element-2b4a226d.elementor-view-default .elementor-icon {
+	fill: #d62976;
+	color: #d62976;
+	border-color: #d62976;
+}
+
+.elementor-1359 .elementor-element.elementor-element-2b4a226d .elementor-icon {
+	font-size: 63px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-2b4a226d .elementor-icon i {
+	transform: rotate(0deg);
+}
+
+.elementor-1359 .elementor-element.elementor-element-2b4a226d .elementor-icon-box-title,
+.elementor-1359 .elementor-element.elementor-element-2b4a226d .elementor-icon-box-title a {
+	font-family: "Poppins", Sans-serif;
+	font-size: 15px;
+	font-weight: 600;
+}
+
+.elementor-1359 .elementor-element.elementor-element-2b4a226d .elementor-icon-box-description {
+	color: #d62976;
+	font-family: "Poppins", Sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 1.3em;
+	letter-spacing: 0.1px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-5b782ba5>.elementor-container {
+	max-width: 1034px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-615d298 {
+	--spacer-size: 50px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-3d6c6e5f {
+	text-align: center;
+}
+
+.elementor-1359 .elementor-element.elementor-element-3d6c6e5f .elementor-heading-title {
+	color: #d62976;
+	font-family: "Poppins", Sans-serif;
+	font-size: 30px;
+	font-weight: 700;
+}
+
+.elementor-1359 .elementor-element.elementor-element-4ce3cc3d {
+	text-align: center;
+}
+
+.elementor-1359 .elementor-element.elementor-element-4ce3cc3d .elementor-heading-title {
+	color: #d62976;
+	font-family: "Poppins", Sans-serif;
+	font-size: 15px;
+	font-weight: 400;
+}
+
+.elementor-widget-price-table .elementor-price-table__button {
+	background-color: var(--e-global-color-accent);
+	font-family: var(--e-global-typography-accent-font-family), Sans-serif;
+	font-weight: var(--e-global-typography-accent-font-weight);
+}
+
+.elementor-widget-price-table {
+	--e-price-table-header-background-color: var(--e-global-color-secondary);
+}
+
+.elementor-widget-price-table .elementor-price-table__heading {
+	font-family: var(--e-global-typography-primary-font-family), Sans-serif;
+	font-weight: var(--e-global-typography-primary-font-weight);
+}
+
+.elementor-widget-price-table .elementor-price-table__subheading {
+	font-family: var(--e-global-typography-secondary-font-family), Sans-serif;
+	font-weight: var(--e-global-typography-secondary-font-weight);
+}
+
+.elementor-widget-price-table .elementor-price-table .elementor-price-table__price {
+	font-family: var(--e-global-typography-primary-font-family), Sans-serif;
+	font-weight: var(--e-global-typography-primary-font-weight);
+}
+
+.elementor-widget-price-table .elementor-price-table__original-price {
+	color: var(--e-global-color-secondary);
+	font-family: var(--e-global-typography-primary-font-family), Sans-serif;
+	font-weight: var(--e-global-typography-primary-font-weight);
+}
+
+.elementor-widget-price-table .elementor-price-table__period {
+	color: var(--e-global-color-secondary);
+	font-family: var(--e-global-typography-secondary-font-family), Sans-serif;
+	font-weight: var(--e-global-typography-secondary-font-weight);
+}
+
+.elementor-widget-price-table .elementor-price-table__features-list {
+	--e-price-table-features-list-color: var(--e-global-color-text);
+}
+
+.elementor-widget-price-table .elementor-price-table__features-list li {
+	font-family: var(--e-global-typography-text-font-family), Sans-serif;
+	font-weight: var(--e-global-typography-text-font-weight);
+}
+
+.elementor-widget-price-table .elementor-price-table__features-list li:before {
+	border-top-color: var(--e-global-color-text);
+}
+
+.elementor-widget-price-table .elementor-price-table__additional_info {
+	color: var(--e-global-color-text);
+	font-family: var(--e-global-typography-text-font-family), Sans-serif;
+	font-weight: var(--e-global-typography-text-font-weight);
+}
+
+.elementor-widget-price-table .elementor-price-table__ribbon-inner {
+	background-color: var(--e-global-color-accent);
+	font-family: var(--e-global-typography-accent-font-family), Sans-serif;
+	font-weight: var(--e-global-typography-accent-font-weight);
+}
+
+.elementor-1359 .elementor-element.elementor-element-5a90e1 .elementor-price-table__button {
+	background-image: linear-gradient(180deg, #39ff14 0%, #007a2e 100%);
+	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+	color: #ffffff;
+	font-family: "Poppins", Sans-serif;
+	font-size: 14px;
+	font-weight: 600;
+	border-radius: 12px 12px 12px 12px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-5a90e1>.elementor-widget-container {
+	border-style: solid;
+	border-width: 2px 2px 2px 2px;
+	border-color: #ffffff;
+	border-radius: 10px 10px 10px 10px;
+	box-shadow: 0px 0px 6px 2px rgba(0, 0, 0, 0.86);
+}
+
+.elementor-1359 .elementor-element.elementor-element-5a90e1 {
+	--e-price-table-header-background-color: #d62976;
+}
+
+.elementor-1359 .elementor-element.elementor-element-5a90e1 .elementor-price-table__heading {
+	color: #fff;
+	font-family: "Poppins", Sans-serif;
+	font-size: 25px;
+	font-weight: 600;
+}
+
+.elementor-1359 .elementor-element.elementor-element-5a90e1 .elementor-price-table__subheading {
+	color: #fff;
+	font-family: "Poppins", Sans-serif;
+	font-size: 18px;
+	font-weight: 400;
+}
+
+.elementor-1359 .elementor-element.elementor-element-5a90e1 .elementor-price-table__price {
+	background-color: #d62976;
+}
+
+.elementor-1359 .elementor-element.elementor-element-5a90e1 .elementor-price-table__currency,
+.elementor-1359 .elementor-element.elementor-element-5a90e1 .elementor-price-table__integer-part,
+.elementor-1359 .elementor-element.elementor-element-5a90e1 .elementor-price-table__fractional-part {
+	color: #fff;
+}
+
+.elementor-1359 .elementor-element.elementor-element-5a90e1 .elementor-price-table .elementor-price-table__price {
+	font-family: "Poppins", Sans-serif;
+	font-size: 70px;
+	font-weight: 600;
+}
+
+.elementor-1359 .elementor-element.elementor-element-5a90e1 .elementor-price-table__price>.elementor-price-table__currency {
+	font-size: calc(27em/100);
+}
+
+.elementor-1359 .elementor-element.elementor-element-5a90e1 .elementor-price-table__currency {
+	align-self: flex-start;
+}
+
+.elementor-1359 .elementor-element.elementor-element-5a90e1 .elementor-price-table__fractional-part {
+	font-size: calc(29em/100);
+}
+
+.elementor-1359 .elementor-element.elementor-element-5a90e1 .elementor-price-table__features-list {
+	background-color: #d62976;
+	--e-price-table-features-list-color: #FFFFFF;
+}
+
+.elementor-1359 .elementor-element.elementor-element-5a90e1 .elementor-price-table__features-list li {
+	font-family: "Poppins", Sans-serif;
+	font-size: 12px;
+	font-weight: 400;
+}
+
+.elementor-1359 .elementor-element.elementor-element-5a90e1 .elementor-price-table__features-list li:before {
+	border-top-style: solid;
+	border-top-color: #ddd;
+	border-top-width: 2px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-5a90e1 .elementor-price-table__footer {
+	background-color: #d62976;
+}
+
+.elementor-1359 .elementor-element.elementor-element-7472d713 .elementor-price-table__button {
+	background-image: linear-gradient(180deg, #39ff14 0%, #007a2e 100%);
+box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+	color: #ffffff;
+	font-family: "Poppins", Sans-serif;
+	font-size: 14px;
+	font-weight: 600;
+	border-radius: 12px 12px 12px 12px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-7472d713>.elementor-widget-container {
+	border-style: solid;
+	border-width: 2px 2px 2px 2px;
+	border-color: #ffffff;
+	border-radius: 10px 10px 10px 10px;
+	box-shadow: 0px 0px 6px 2px rgba(0, 0, 0, 0.86);
+}
+
+.elementor-1359 .elementor-element.elementor-element-7472d713 {
+	--e-price-table-header-background-color: #d62976;
+}
+
+.elementor-1359 .elementor-element.elementor-element-7472d713 .elementor-price-table__heading {
+	color: #fff;
+	font-family: "Poppins", Sans-serif;
+	font-size: 25px;
+	font-weight: 600;
+}
+
+.elementor-1359 .elementor-element.elementor-element-7472d713 .elementor-price-table__subheading {
+	color: #fff;
+	font-family: "Poppins", Sans-serif;
+	font-size: 18px;
+	font-weight: 400;
+}
+
+.elementor-1359 .elementor-element.elementor-element-7472d713 .elementor-price-table__price {
+	background-color: #d62976;
+}
+
+.elementor-1359 .elementor-element.elementor-element-7472d713 .elementor-price-table__currency,
+.elementor-1359 .elementor-element.elementor-element-7472d713 .elementor-price-table__integer-part,
+.elementor-1359 .elementor-element.elementor-element-7472d713 .elementor-price-table__fractional-part {
+	color: #fff;
+}
+
+.elementor-1359 .elementor-element.elementor-element-7472d713 .elementor-price-table .elementor-price-table__price {
+	font-family: "Poppins", Sans-serif;
+	font-size: 70px;
+	font-weight: 600;
+}
+
+.elementor-1359 .elementor-element.elementor-element-7472d713 .elementor-price-table__price>.elementor-price-table__currency {
+	font-size: calc(27em/100);
+}
+
+.elementor-1359 .elementor-element.elementor-element-7472d713 .elementor-price-table__currency {
+	align-self: flex-start;
+}
+
+.elementor-1359 .elementor-element.elementor-element-7472d713 .elementor-price-table__fractional-part {
+	font-size: calc(29em/100);
+}
+
+.elementor-1359 .elementor-element.elementor-element-7472d713 .elementor-price-table__features-list {
+	background-color: #d62976;
+	--e-price-table-features-list-color: #FFFFFF;
+}
+
+.elementor-1359 .elementor-element.elementor-element-7472d713 .elementor-price-table__features-list li {
+	font-family: "Poppins", Sans-serif;
+	font-size: 12px;
+	font-weight: 400;
+}
+
+.elementor-1359 .elementor-element.elementor-element-7472d713 .elementor-price-table__features-list li:before {
+	border-top-style: solid;
+	border-top-color: #ddd;
+	border-top-width: 2px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-7472d713 .elementor-price-table__footer {
+	background-color: #d62976;
+}
+
+.elementor-1359 .elementor-element.elementor-element-17ee7b35 .elementor-price-table__button {
+	background-image: linear-gradient(180deg, #39ff14 0%, #007a2e 100%);
+box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+	color: #ffffff;
+	font-family: "Poppins", Sans-serif;
+	font-size: 14px;
+	font-weight: 600;
+	border-radius: 12px 12px 12px 12px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-17ee7b35>.elementor-widget-container {
+	border-style: solid;
+	border-width: 2px 2px 2px 2px;
+	border-color: #ffffff;
+	border-radius: 10px 10px 10px 10px;
+	box-shadow: 0px 0px 6px 2px rgba(0, 0, 0, 0.86);
+}
+
+.elementor-1359 .elementor-element.elementor-element-17ee7b35 {
+	--e-price-table-header-background-color: #d62976;
+}
+
+.elementor-1359 .elementor-element.elementor-element-17ee7b35 .elementor-price-table__heading {
+	color: #fff;
+	font-family: "Poppins", Sans-serif;
+	font-size: 25px;
+	font-weight: 600;
+}
+
+.elementor-1359 .elementor-element.elementor-element-17ee7b35 .elementor-price-table__subheading {
+	color: #fff;
+	font-family: "Poppins", Sans-serif;
+	font-size: 18px;
+	font-weight: 400;
+}
+
+.elementor-1359 .elementor-element.elementor-element-17ee7b35 .elementor-price-table__price {
+	background-color: #d62976;
+}
+
+.elementor-1359 .elementor-element.elementor-element-17ee7b35 .elementor-price-table__currency,
+.elementor-1359 .elementor-element.elementor-element-17ee7b35 .elementor-price-table__integer-part,
+.elementor-1359 .elementor-element.elementor-element-17ee7b35 .elementor-price-table__fractional-part {
+	color: #fff;
+}
+
+.elementor-1359 .elementor-element.elementor-element-17ee7b35 .elementor-price-table .elementor-price-table__price {
+	font-family: "Poppins", Sans-serif;
+	font-size: 70px;
+	font-weight: 600;
+}
+
+.elementor-1359 .elementor-element.elementor-element-17ee7b35 .elementor-price-table__price>.elementor-price-table__currency {
+	font-size: calc(27em/100);
+}
+
+.elementor-1359 .elementor-element.elementor-element-17ee7b35 .elementor-price-table__currency {
+	align-self: flex-start;
+}
+
+.elementor-1359 .elementor-element.elementor-element-17ee7b35 .elementor-price-table__fractional-part {
+	font-size: calc(29em/100);
+}
+
+.elementor-1359 .elementor-element.elementor-element-17ee7b35 .elementor-price-table__features-list {
+	background-color: #d62976;
+	--e-price-table-features-list-color: #FFFFFF;
+}
+
+.elementor-1359 .elementor-element.elementor-element-17ee7b35 .elementor-price-table__features-list li {
+	font-family: "Poppins", Sans-serif;
+	font-size: 12px;
+	font-weight: 400;
+}
+
+.elementor-1359 .elementor-element.elementor-element-17ee7b35 .elementor-price-table__features-list li:before {
+	border-top-style: solid;
+	border-top-color: #ddd;
+	border-top-width: 2px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-17ee7b35 .elementor-price-table__footer {
+	background-color: #d62976;
+}
+
+.elementor-1359 .elementor-element.elementor-element-75c3a766 .elementor-price-table__button {
+	background-image: linear-gradient(180deg, #39ff14 0%, #007a2e 100%);
+box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+	color: #ffffff;
+	font-family: "Poppins", Sans-serif;
+	font-size: 14px;
+	font-weight: 600;
+	border-radius: 12px 12px 12px 12px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-75c3a766>.elementor-widget-container {
+	border-style: solid;
+	border-width: 2px 2px 2px 2px;
+	border-color: #ffffff;
+	border-radius: 10px 10px 10px 10px;
+	box-shadow: 0px 0px 6px 2px rgba(0, 0, 0, 0.86);
+}
+
+.elementor-1359 .elementor-element.elementor-element-75c3a766 {
+	--e-price-table-header-background-color: #d62976;
+}
+
+.elementor-1359 .elementor-element.elementor-element-75c3a766 .elementor-price-table__heading {
+	color: #fff;
+	font-family: "Poppins", Sans-serif;
+	font-size: 25px;
+	font-weight: 600;
+}
+
+.elementor-1359 .elementor-element.elementor-element-75c3a766 .elementor-price-table__subheading {
+	color: #fff;
+	font-family: "Poppins", Sans-serif;
+	font-size: 18px;
+	font-weight: 400;
+}
+
+.elementor-1359 .elementor-element.elementor-element-75c3a766 .elementor-price-table__price {
+	background-color: #d62976;
+}
+
+.elementor-1359 .elementor-element.elementor-element-75c3a766 .elementor-price-table__currency,
+.elementor-1359 .elementor-element.elementor-element-75c3a766 .elementor-price-table__integer-part,
+.elementor-1359 .elementor-element.elementor-element-75c3a766 .elementor-price-table__fractional-part {
+	color: #fff;
+}
+
+.elementor-1359 .elementor-element.elementor-element-75c3a766 .elementor-price-table .elementor-price-table__price {
+	font-family: "Poppins", Sans-serif;
+	font-size: 70px;
+	font-weight: 600;
+}
+
+.elementor-1359 .elementor-element.elementor-element-75c3a766 .elementor-price-table__price>.elementor-price-table__currency {
+	font-size: calc(27em/100);
+}
+
+.elementor-1359 .elementor-element.elementor-element-75c3a766 .elementor-price-table__currency {
+	align-self: flex-start;
+}
+
+.elementor-1359 .elementor-element.elementor-element-75c3a766 .elementor-price-table__fractional-part {
+	font-size: calc(29em/100);
+}
+
+.elementor-1359 .elementor-element.elementor-element-75c3a766 .elementor-price-table__features-list {
+	background-color: #d62976;
+	--e-price-table-features-list-color: #FFFFFF;
+}
+
+.elementor-1359 .elementor-element.elementor-element-75c3a766 .elementor-price-table__features-list li {
+	font-family: "Poppins", Sans-serif;
+	font-size: 12px;
+	font-weight: 400;
+}
+
+.elementor-1359 .elementor-element.elementor-element-75c3a766 .elementor-price-table__features-list li:before {
+	border-top-style: solid;
+	border-top-color: #ddd;
+	border-top-width: 2px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-75c3a766 .elementor-price-table__footer {
+	background-color: #d62976;
+}
+
+.elementor-1359 .elementor-element.elementor-element-109dde7e .elementor-price-table__button {
+	background-image: linear-gradient(180deg, #39ff14 0%, #007a2e 100%);
+box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+	color: #ffffff;
+	font-family: "Poppins", Sans-serif;
+	font-size: 14px;
+	font-weight: 600;
+	border-radius: 12px 12px 12px 12px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-109dde7e>.elementor-widget-container {
+	border-style: solid;
+	border-width: 2px 2px 2px 2px;
+	border-color: #d62976;
+	border-radius: 10px 10px 10px 10px;
+	box-shadow: 0px 0px 6px 2px rgba(0, 0, 0, 0.86);
+}
+
+.elementor-1359 .elementor-element.elementor-element-109dde7e {
+	--e-price-table-header-background-color: #ffffff;
+}
+
+.elementor-1359 .elementor-element.elementor-element-109dde7e .elementor-price-table__heading {
+	color: #d62976;
+	font-family: "Poppins", Sans-serif;
+	font-size: 25px;
+	font-weight: 600;
+}
+
+.elementor-1359 .elementor-element.elementor-element-109dde7e .elementor-price-table__subheading {
+	color: #d62976;
+	font-family: "Poppins", Sans-serif;
+	font-size: 18px;
+	font-weight: 400;
+}
+
+.elementor-1359 .elementor-element.elementor-element-109dde7e .elementor-price-table__price {
+	background-color: #ffffff;
+}
+
+.elementor-1359 .elementor-element.elementor-element-109dde7e .elementor-price-table__currency,
+.elementor-1359 .elementor-element.elementor-element-109dde7e .elementor-price-table__integer-part,
+.elementor-1359 .elementor-element.elementor-element-109dde7e .elementor-price-table__fractional-part {
+	color: #d62976;
+}
+
+.elementor-1359 .elementor-element.elementor-element-109dde7e .elementor-price-table .elementor-price-table__price {
+	font-family: "Poppins", Sans-serif;
+	font-size: 70px;
+	font-weight: 600;
+}
+
+.elementor-1359 .elementor-element.elementor-element-109dde7e .elementor-price-table__price>.elementor-price-table__currency {
+	font-size: calc(27em/100);
+}
+
+.elementor-1359 .elementor-element.elementor-element-109dde7e .elementor-price-table__currency {
+	align-self: flex-start;
+}
+
+.elementor-1359 .elementor-element.elementor-element-109dde7e .elementor-price-table__fractional-part {
+	font-size: calc(29em/100);
+}
+
+.elementor-1359 .elementor-element.elementor-element-109dde7e .elementor-price-table__features-list {
+	background-color: #ffffff;
+	--e-price-table-features-list-color: #d62976;
+}
+
+.elementor-1359 .elementor-element.elementor-element-109dde7e .elementor-price-table__features-list li {
+	font-family: "Poppins", Sans-serif;
+	font-size: 12px;
+	font-weight: 400;
+}
+
+.elementor-1359 .elementor-element.elementor-element-109dde7e .elementor-price-table__features-list li:before {
+	border-top-style: solid;
+	border-top-color: #d62976;
+	border-top-width: 2px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-109dde7e .elementor-price-table__footer {
+	background-color: #ffffff;
+}
+
+.elementor-1359 .elementor-element.elementor-element-4e5f5812 .elementor-price-table__button {
+	background-image: linear-gradient(180deg, #39ff14 0%, #007a2e 100%);
+	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);	color: #ffffff;
+	font-family: "Poppins", Sans-serif;
+	font-size: 14px;
+	font-weight: 600;
+	border-radius: 12px 12px 12px 12px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-4e5f5812>.elementor-widget-container {
+	border-style: solid;
+	border-width: 2px 2px 2px 2px;
+	border-color: #ffffff;
+	border-radius: 10px 10px 10px 10px;
+	box-shadow: 0px 0px 6px 2px rgba(0, 0, 0, 0.86);
+}
+
+.elementor-1359 .elementor-element.elementor-element-4e5f5812 {
+	--e-price-table-header-background-color: #d62976;
+}
+
+.elementor-1359 .elementor-element.elementor-element-4e5f5812 .elementor-price-table__heading {
+	color: #fff;
+	font-family: "Poppins", Sans-serif;
+	font-size: 25px;
+	font-weight: 600;
+}
+
+.elementor-1359 .elementor-element.elementor-element-4e5f5812 .elementor-price-table__subheading {
+	color: #fff;
+	font-family: "Poppins", Sans-serif;
+	font-size: 18px;
+	font-weight: 400;
+}
+
+.elementor-1359 .elementor-element.elementor-element-4e5f5812 .elementor-price-table__price {
+	background-color: #d62976;
+}
+
+.elementor-1359 .elementor-element.elementor-element-4e5f5812 .elementor-price-table__currency,
+.elementor-1359 .elementor-element.elementor-element-4e5f5812 .elementor-price-table__integer-part,
+.elementor-1359 .elementor-element.elementor-element-4e5f5812 .elementor-price-table__fractional-part {
+	color: #fff;
+}
+
+.elementor-1359 .elementor-element.elementor-element-4e5f5812 .elementor-price-table .elementor-price-table__price {
+	font-family: "Poppins", Sans-serif;
+	font-size: 70px;
+	font-weight: 600;
+}
+
+.elementor-1359 .elementor-element.elementor-element-4e5f5812 .elementor-price-table__price>.elementor-price-table__currency {
+	font-size: calc(27em/100);
+}
+
+.elementor-1359 .elementor-element.elementor-element-4e5f5812 .elementor-price-table__currency {
+	align-self: flex-start;
+}
+
+.elementor-1359 .elementor-element.elementor-element-4e5f5812 .elementor-price-table__fractional-part {
+	font-size: calc(29em/100);
+}
+
+.elementor-1359 .elementor-element.elementor-element-4e5f5812 .elementor-price-table__features-list {
+	background-color: #d62976;
+	--e-price-table-features-list-color: #FFFFFF;
+}
+
+.elementor-1359 .elementor-element.elementor-element-4e5f5812 .elementor-price-table__features-list li {
+	font-family: "Poppins", Sans-serif;
+	font-size: 12px;
+	font-weight: 400;
+}
+
+.elementor-1359 .elementor-element.elementor-element-4e5f5812 .elementor-price-table__features-list li:before {
+	border-top-style: solid;
+	border-top-color: #ddd;
+	border-top-width: 2px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-4e5f5812 .elementor-price-table__footer {
+	background-color: #d62976;
+}
+
+.elementor-1359 .elementor-element.elementor-element-23948bb9 .elementor-price-table__button {
+	background-image: linear-gradient(180deg, #39ff14 0%, #007a2e 100%);
+box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+	color: #ffffff;
+	font-family: "Poppins", Sans-serif;
+	font-size: 14px;
+	font-weight: 600;
+	border-radius: 12px 12px 12px 12px;
+	box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3)
+}
+
+.elementor-1359 .elementor-element.elementor-element-23948bb9>.elementor-widget-container {
+	border-style: solid;
+	border-width: 2px 2px 2px 2px;
+	border-color: #ffffff;
+	border-radius: 10px 10px 10px 10px;
+	box-shadow: 0px 0px 6px 2px rgba(0, 0, 0, 0.86);
+}
+
+.elementor-1359 .elementor-element.elementor-element-23948bb9 {
+	--e-price-table-header-background-color: #d62976;
+}
+
+.elementor-1359 .elementor-element.elementor-element-23948bb9 .elementor-price-table__heading {
+	color: #fff;
+	font-family: "Poppins", Sans-serif;
+	font-size: 25px;
+	font-weight: 600;
+}
+
+.elementor-1359 .elementor-element.elementor-element-23948bb9 .elementor-price-table__subheading {
+	color: #fff;
+	font-family: "Poppins", Sans-serif;
+	font-size: 18px;
+	font-weight: 400;
+}
+
+.elementor-1359 .elementor-element.elementor-element-23948bb9 .elementor-price-table__price {
+	background-color: #d62976;
+}
+
+.elementor-1359 .elementor-element.elementor-element-23948bb9 .elementor-price-table__currency,
+.elementor-1359 .elementor-element.elementor-element-23948bb9 .elementor-price-table__integer-part,
+.elementor-1359 .elementor-element.elementor-element-23948bb9 .elementor-price-table__fractional-part {
+	color: #fff;
+}
+
+.elementor-1359 .elementor-element.elementor-element-23948bb9 .elementor-price-table .elementor-price-table__price {
+	font-family: "Poppins", Sans-serif;
+	font-size: 70px;
+	font-weight: 600;
+}
+
+.elementor-1359 .elementor-element.elementor-element-23948bb9 .elementor-price-table__price>.elementor-price-table__currency {
+	font-size: calc(27em/100);
+}
+
+.elementor-1359 .elementor-element.elementor-element-23948bb9 .elementor-price-table__currency {
+	align-self: flex-start;
+}
+
+.elementor-1359 .elementor-element.elementor-element-23948bb9 .elementor-price-table__fractional-part {
+	font-size: calc(29em/100);
+}
+
+.elementor-1359 .elementor-element.elementor-element-23948bb9 .elementor-price-table__features-list {
+	background-color: #d62976;
+	--e-price-table-features-list-color: #FFFFFF;
+}
+
+.elementor-1359 .elementor-element.elementor-element-23948bb9 .elementor-price-table__features-list li {
+	font-family: "Poppins", Sans-serif;
+	font-size: 12px;
+	font-weight: 400;
+}
+
+.elementor-1359 .elementor-element.elementor-element-23948bb9 .elementor-price-table__features-list li:before {
+	border-top-style: solid;
+	border-top-color: #ddd;
+	border-top-width: 2px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-23948bb9 .elementor-price-table__footer {
+	background-color: #d62976;
+}
+
+.elementor-1359 .elementor-element.elementor-element-12dcb333 .elementor-price-table__button {
+	background-image: linear-gradient(180deg, #39ff14 0%, #007a2e 100%);
+box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+	color: #ffffff;
+	font-family: "Poppins", Sans-serif;
+	font-size: 14px;
+	font-weight: 600;
+	border-radius: 12px 12px 12px 12px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-12dcb333>.elementor-widget-container {
+	border-style: solid;
+	border-width: 2px 2px 2px 2px;
+	border-color: #ffffff;
+	border-radius: 10px 10px 10px 10px;
+	box-shadow: 0px 0px 6px 2px rgba(0, 0, 0, 0.86);
+}
+
+.elementor-1359 .elementor-element.elementor-element-12dcb333 {
+	--e-price-table-header-background-color: #d62976;
+}
+
+.elementor-1359 .elementor-element.elementor-element-12dcb333 .elementor-price-table__heading {
+	color: #fff;
+	font-family: "Poppins", Sans-serif;
+	font-size: 25px;
+	font-weight: 600;
+}
+
+.elementor-1359 .elementor-element.elementor-element-12dcb333 .elementor-price-table__subheading {
+	color: #fff;
+	font-family: "Poppins", Sans-serif;
+	font-size: 18px;
+	font-weight: 400;
+}
+
+.elementor-1359 .elementor-element.elementor-element-12dcb333 .elementor-price-table__price {
+	background-color: #d62976;
+}
+
+.elementor-1359 .elementor-element.elementor-element-12dcb333 .elementor-price-table__currency,
+.elementor-1359 .elementor-element.elementor-element-12dcb333 .elementor-price-table__integer-part,
+.elementor-1359 .elementor-element.elementor-element-12dcb333 .elementor-price-table__fractional-part {
+	color: #fff;
+}
+
+.elementor-1359 .elementor-element.elementor-element-12dcb333 .elementor-price-table .elementor-price-table__price {
+	font-family: "Poppins", Sans-serif;
+	font-size: 70px;
+	font-weight: 600;
+}
+
+.elementor-1359 .elementor-element.elementor-element-12dcb333 .elementor-price-table__price>.elementor-price-table__currency {
+	font-size: calc(27em/100);
+}
+
+.elementor-1359 .elementor-element.elementor-element-12dcb333 .elementor-price-table__currency {
+	align-self: flex-start;
+}
+
+.elementor-1359 .elementor-element.elementor-element-12dcb333 .elementor-price-table__fractional-part {
+	font-size: calc(29em/100);
+}
+
+.elementor-1359 .elementor-element.elementor-element-12dcb333 .elementor-price-table__features-list {
+	background-color: #d62976;
+	--e-price-table-features-list-color: #FFFFFF;
+}
+
+.elementor-1359 .elementor-element.elementor-element-12dcb333 .elementor-price-table__features-list li {
+	font-family: "Poppins", Sans-serif;
+	font-size: 12px;
+	font-weight: 400;
+}
+
+.elementor-1359 .elementor-element.elementor-element-12dcb333 .elementor-price-table__features-list li:before {
+	border-top-style: solid;
+	border-top-color: #ddd;
+	border-top-width: 2px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-12dcb333 .elementor-price-table__footer {
+	background-color: #d62976;
+}
+
+.elementor-1359 .elementor-element.elementor-element-3b86c66b {
+	--spacer-size: 10px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-5c856337 {
+	text-align: center;
+}
+
+.elementor-1359 .elementor-element.elementor-element-5c856337 .elementor-heading-title {
+	color: #d62976;
+	font-family: "Poppins", Sans-serif;
+	font-size: 30px;
+	font-weight: 700;
+}
+
+.elementor-1359 .elementor-element.elementor-element-ce983b5 {
+	text-align: center;
+}
+
+.elementor-1359 .elementor-element.elementor-element-ce983b5 .elementor-heading-title {
+	color: #d62976;
+	font-family: "Poppins", Sans-serif;
+	font-size: 15px;
+	font-weight: 400;
+}
+
+.elementor-1359 .elementor-element.elementor-element-330a91e {
+	--spacer-size: 10px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-2c792ee4 .elementor-price-table__button {
+	background-color: #fff;
+	color: #ffffff;
+	font-family: "Poppins", Sans-serif;
+	font-size: 14px;
+	font-weight: 600;
+	border-radius: 12px 12px 12px 12px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-2c792ee4>.elementor-widget-container {
+	border-style: solid;
+	border-width: 2px 2px 2px 2px;
+	border-color: #FCFCFC;
+	border-radius: 10px 10px 10px 10px;
+	box-shadow: 0px 0px 6px 2px rgba(0, 0, 0, 0.86);
+}
+
+.elementor-1359 .elementor-element.elementor-element-2c792ee4 {
+	--e-price-table-header-background-color: #FFFFFF;
+}
+
+.elementor-1359 .elementor-element.elementor-element-2c792ee4 .elementor-price-table__heading {
+	color: #fff;
+	font-family: "Poppins", Sans-serif;
+	font-size: 25px;
+	font-weight: 600;
+}
+
+.elementor-1359 .elementor-element.elementor-element-2c792ee4 .elementor-price-table__subheading {
+	color: #fff;
+	font-family: "Poppins", Sans-serif;
+	font-size: 13px;
+	font-weight: 400;
+}
+
+.elementor-1359 .elementor-element.elementor-element-2c792ee4 .elementor-price-table__price {
+	background-color: #FFFFFF;
+}
+
+.elementor-1359 .elementor-element.elementor-element-2c792ee4 .elementor-price-table__currency,
+.elementor-1359 .elementor-element.elementor-element-2c792ee4 .elementor-price-table__integer-part,
+.elementor-1359 .elementor-element.elementor-element-2c792ee4 .elementor-price-table__fractional-part {
+	color: #fff;
+}
+
+.elementor-1359 .elementor-element.elementor-element-2c792ee4 .elementor-price-table .elementor-price-table__price {
+	font-family: "Poppins", Sans-serif;
+	font-size: 70px;
+	font-weight: 600;
+}
+
+.elementor-1359 .elementor-element.elementor-element-2c792ee4 .elementor-price-table__price>.elementor-price-table__currency {
+	font-size: calc(27em/100);
+}
+
+.elementor-1359 .elementor-element.elementor-element-2c792ee4 .elementor-price-table__currency {
+	align-self: flex-start;
+}
+
+.elementor-1359 .elementor-element.elementor-element-2c792ee4 .elementor-price-table__fractional-part {
+	font-size: calc(29em/100);
+}
+
+.elementor-1359 .elementor-element.elementor-element-2c792ee4 .elementor-price-table__after-price {
+	justify-content: flex-start;
+}
+
+.elementor-1359 .elementor-element.elementor-element-2c792ee4 .elementor-price-table__period {
+	font-family: "Poppins", Sans-serif;
+	font-size: 13px;
+	font-weight: 400;
+}
+
+.elementor-1359 .elementor-element.elementor-element-2c792ee4 .elementor-price-table__features-list {
+	background-color: #FFFFFF;
+	--e-price-table-features-list-color: #000000;
+}
+
+.elementor-1359 .elementor-element.elementor-element-2c792ee4 .elementor-price-table__features-list li {
+	font-family: "Poppins", Sans-serif;
+	font-size: 12px;
+	font-weight: 400;
+}
+
+.elementor-1359 .elementor-element.elementor-element-2c792ee4 .elementor-price-table__features-list li:before {
+	border-top-style: solid;
+	border-top-color: #ddd;
+	border-top-width: 2px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-2c792ee4 .elementor-price-table__footer {
+	background-color: #FFFFFF;
+}
+
+.elementor-1359 .elementor-element.elementor-element-63e3da38 .elementor-price-table__button {
+	background-color: #fff;
+	color: #ffffff;
+	font-family: "Poppins", Sans-serif;
+	font-size: 14px;
+	font-weight: 600;
+	border-radius: 12px 12px 12px 12px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-63e3da38>.elementor-widget-container {
+	border-style: solid;
+	border-width: 2px 2px 2px 2px;
+	border-color: #FCFCFC;
+	border-radius: 10px 10px 10px 10px;
+	box-shadow: 0px 0px 6px 2px rgba(0, 0, 0, 0.86);
+}
+
+.elementor-1359 .elementor-element.elementor-element-63e3da38 {
+	--e-price-table-header-background-color: #FFFFFF;
+}
+
+.elementor-1359 .elementor-element.elementor-element-63e3da38 .elementor-price-table__heading {
+	color: #fff;
+	font-family: "Poppins", Sans-serif;
+	font-size: 25px;
+	font-weight: 600;
+}
+
+.elementor-1359 .elementor-element.elementor-element-63e3da38 .elementor-price-table__subheading {
+	color: #fff;
+	font-family: "Poppins", Sans-serif;
+	font-size: 13px;
+	font-weight: 400;
+}
+
+.elementor-1359 .elementor-element.elementor-element-63e3da38 .elementor-price-table__price {
+	background-color: #FFFFFF;
+}
+
+.elementor-1359 .elementor-element.elementor-element-63e3da38 .elementor-price-table__currency,
+.elementor-1359 .elementor-element.elementor-element-63e3da38 .elementor-price-table__integer-part,
+.elementor-1359 .elementor-element.elementor-element-63e3da38 .elementor-price-table__fractional-part {
+	color: #fff;
+}
+
+.elementor-1359 .elementor-element.elementor-element-63e3da38 .elementor-price-table .elementor-price-table__price {
+	font-family: "Poppins", Sans-serif;
+	font-size: 70px;
+	font-weight: 600;
+}
+
+.elementor-1359 .elementor-element.elementor-element-63e3da38 .elementor-price-table__price>.elementor-price-table__currency {
+	font-size: calc(27em/100);
+}
+
+.elementor-1359 .elementor-element.elementor-element-63e3da38 .elementor-price-table__currency {
+	align-self: flex-start;
+}
+
+.elementor-1359 .elementor-element.elementor-element-63e3da38 .elementor-price-table__fractional-part {
+	font-size: calc(29em/100);
+}
+
+.elementor-1359 .elementor-element.elementor-element-63e3da38 .elementor-price-table__after-price {
+	justify-content: flex-start;
+}
+
+.elementor-1359 .elementor-element.elementor-element-63e3da38 .elementor-price-table__period {
+	font-family: "Poppins", Sans-serif;
+	font-size: 13px;
+	font-weight: 400;
+}
+
+.elementor-1359 .elementor-element.elementor-element-63e3da38 .elementor-price-table__features-list {
+	background-color: #FFFFFF;
+	--e-price-table-features-list-color: #000000;
+}
+
+.elementor-1359 .elementor-element.elementor-element-63e3da38 .elementor-price-table__features-list li {
+	font-family: "Poppins", Sans-serif;
+	font-size: 12px;
+	font-weight: 400;
+}
+
+.elementor-1359 .elementor-element.elementor-element-63e3da38 .elementor-price-table__features-list li:before {
+	border-top-style: solid;
+	border-top-color: #ddd;
+	border-top-width: 2px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-63e3da38 .elementor-price-table__footer {
+	background-color: #FFFFFF;
+}
+
+.elementor-1359 .elementor-element.elementor-element-a275d47 .elementor-price-table__button {
+	background-color: #fff;
+	color: #ffffff;
+	font-family: "Poppins", Sans-serif;
+	font-size: 14px;
+	font-weight: 600;
+	border-radius: 12px 12px 12px 12px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-a275d47>.elementor-widget-container {
+	border-style: solid;
+	border-width: 2px 2px 2px 2px;
+	border-color: #FCFCFC;
+	border-radius: 10px 10px 10px 10px;
+	box-shadow: 0px 0px 6px 2px rgba(0, 0, 0, 0.86);
+}
+
+.elementor-1359 .elementor-element.elementor-element-a275d47 {
+	--e-price-table-header-background-color: #FFFFFF;
+}
+
+.elementor-1359 .elementor-element.elementor-element-a275d47 .elementor-price-table__heading {
+	color: #fff;
+	font-family: "Poppins", Sans-serif;
+	font-size: 25px;
+	font-weight: 600;
+}
+
+.elementor-1359 .elementor-element.elementor-element-a275d47 .elementor-price-table__subheading {
+	color: #fff;
+	font-family: "Poppins", Sans-serif;
+	font-size: 13px;
+	font-weight: 400;
+}
+
+.elementor-1359 .elementor-element.elementor-element-a275d47 .elementor-price-table__price {
+	background-color: #FFFFFF;
+}
+
+.elementor-1359 .elementor-element.elementor-element-a275d47 .elementor-price-table__currency,
+.elementor-1359 .elementor-element.elementor-element-a275d47 .elementor-price-table__integer-part,
+.elementor-1359 .elementor-element.elementor-element-a275d47 .elementor-price-table__fractional-part {
+	color: #fff;
+}
+
+.elementor-1359 .elementor-element.elementor-element-a275d47 .elementor-price-table .elementor-price-table__price {
+	font-family: "Poppins", Sans-serif;
+	font-size: 70px;
+	font-weight: 600;
+}
+
+.elementor-1359 .elementor-element.elementor-element-a275d47 .elementor-price-table__price>.elementor-price-table__currency {
+	font-size: calc(27em/100);
+}
+
+.elementor-1359 .elementor-element.elementor-element-a275d47 .elementor-price-table__currency {
+	align-self: flex-start;
+}
+
+.elementor-1359 .elementor-element.elementor-element-a275d47 .elementor-price-table__fractional-part {
+	font-size: calc(29em/100);
+}
+
+.elementor-1359 .elementor-element.elementor-element-a275d47 .elementor-price-table__after-price {
+	justify-content: flex-start;
+}
+
+.elementor-1359 .elementor-element.elementor-element-a275d47 .elementor-price-table__period {
+	font-family: "Poppins", Sans-serif;
+	font-size: 13px;
+	font-weight: 400;
+}
+
+.elementor-1359 .elementor-element.elementor-element-a275d47 .elementor-price-table__features-list {
+	background-color: #FFFFFF;
+	--e-price-table-features-list-color: #000000;
+}
+
+.elementor-1359 .elementor-element.elementor-element-a275d47 .elementor-price-table__features-list li {
+	font-family: "Poppins", Sans-serif;
+	font-size: 12px;
+	font-weight: 400;
+}
+
+.elementor-1359 .elementor-element.elementor-element-a275d47 .elementor-price-table__features-list li:before {
+	border-top-style: solid;
+	border-top-color: #ddd;
+	border-top-width: 2px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-a275d47 .elementor-price-table__footer {
+	background-color: #FFFFFF;
+}
+
+.elementor-1359 .elementor-element.elementor-element-740c646f .elementor-price-table__button {
+	background-color: #fff;
+	color: #ffffff;
+	font-family: "Poppins", Sans-serif;
+	font-size: 14px;
+	font-weight: 600;
+	border-radius: 12px 12px 12px 12px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-740c646f>.elementor-widget-container {
+	border-style: solid;
+	border-width: 2px 2px 2px 2px;
+	border-color: #FCFCFC;
+	border-radius: 10px 10px 10px 10px;
+	box-shadow: 0px 0px 6px 2px rgba(0, 0, 0, 0.86);
+}
+
+.elementor-1359 .elementor-element.elementor-element-740c646f {
+	--e-price-table-header-background-color: #FFFFFF;
+}
+
+.elementor-1359 .elementor-element.elementor-element-740c646f .elementor-price-table__heading {
+	color: #fff;
+	font-family: "Poppins", Sans-serif;
+	font-size: 25px;
+	font-weight: 600;
+}
+
+.elementor-1359 .elementor-element.elementor-element-740c646f .elementor-price-table__subheading {
+	color: #fff;
+	font-family: "Poppins", Sans-serif;
+	font-size: 13px;
+	font-weight: 400;
+}
+
+.elementor-1359 .elementor-element.elementor-element-740c646f .elementor-price-table__price {
+	background-color: #FFFFFF;
+}
+
+.elementor-1359 .elementor-element.elementor-element-740c646f .elementor-price-table__currency,
+.elementor-1359 .elementor-element.elementor-element-740c646f .elementor-price-table__integer-part,
+.elementor-1359 .elementor-element.elementor-element-740c646f .elementor-price-table__fractional-part {
+	color: #fff;
+}
+
+.elementor-1359 .elementor-element.elementor-element-740c646f .elementor-price-table .elementor-price-table__price {
+	font-family: "Poppins", Sans-serif;
+	font-size: 70px;
+	font-weight: 600;
+}
+
+.elementor-1359 .elementor-element.elementor-element-740c646f .elementor-price-table__price>.elementor-price-table__currency {
+	font-size: calc(27em/100);
+}
+
+.elementor-1359 .elementor-element.elementor-element-740c646f .elementor-price-table__currency {
+	align-self: flex-start;
+}
+
+.elementor-1359 .elementor-element.elementor-element-740c646f .elementor-price-table__fractional-part {
+	font-size: calc(29em/100);
+}
+
+.elementor-1359 .elementor-element.elementor-element-740c646f .elementor-price-table__after-price {
+	justify-content: flex-start;
+}
+
+.elementor-1359 .elementor-element.elementor-element-740c646f .elementor-price-table__period {
+	font-family: "Poppins", Sans-serif;
+	font-size: 13px;
+	font-weight: 400;
+}
+
+.elementor-1359 .elementor-element.elementor-element-740c646f .elementor-price-table__features-list {
+	background-color: #FFFFFF;
+	--e-price-table-features-list-color: #000000;
+}
+
+.elementor-1359 .elementor-element.elementor-element-740c646f .elementor-price-table__features-list li {
+	font-family: "Poppins", Sans-serif;
+	font-size: 12px;
+	font-weight: 400;
+}
+
+.elementor-1359 .elementor-element.elementor-element-740c646f .elementor-price-table__features-list li:before {
+	border-top-style: solid;
+	border-top-color: #ddd;
+	border-top-width: 2px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-740c646f .elementor-price-table__footer {
+	background-color: #FFFFFF;
+}
+
+.elementor-1359 .elementor-element.elementor-element-38f4b452 {
+	--spacer-size: 10px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-3ea46d1a {
+	text-align: center;
+}
+
+.elementor-1359 .elementor-element.elementor-element-3ea46d1a .elementor-heading-title {
+	color: #d62976;
+	font-family: "Poppins", Sans-serif;
+	font-size: 35px;
+	font-weight: 700;
+}
+
+.elementor-1359 .elementor-element.elementor-element-5d1eec2a {
+	text-align: center;
+}
+
+.elementor-1359 .elementor-element.elementor-element-5d1eec2a .elementor-heading-title {
+	color: #d62976;
+	font-family: "Poppins", Sans-serif;
+	font-size: 15px;
+	font-weight: 400;
+}
+
+.elementor-1359 .elementor-element.elementor-element-3bfafc23 .elementor-button {
+	background-color: #d62976;
+	font-family: "Poppins", Sans-serif;
+	font-weight: 500;
+	fill: #FFFFFF;
+	color: #FFFFFF;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.elementor-1359 .elementor-element.elementor-element-3bfafc23>.elementor-widget-container {
+	margin: 0px 0px 0px 0px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-3bfafc23 .elementor-button-content-wrapper {
+	flex-direction: row;
+}
+
+.elementor-1359 .elementor-element.elementor-element-15799fed {
+	--spacer-size: 80px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-bee09f6>.elementor-container {
+	max-width: 1057px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-7adce95c {
+	--spacer-size: 23px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-459ba803>.elementor-widget-container {
+	margin: -12px 0px 0px 0px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-459ba803 {
+	text-align: center;
+}
+
+.elementor-1359 .elementor-element.elementor-element-459ba803 .elementor-heading-title {
+	color: #d62976;
+	font-family: "Poppins", Sans-serif;
+	font-size: 35px;
+	font-weight: 700;
+}
+
+.elementor-1359 .elementor-element.elementor-element-6f6c30f7 {
+	text-align: center;
+}
+
+.elementor-1359 .elementor-element.elementor-element-6f6c30f7 .elementor-heading-title {
+	color: #d62976;
+	font-family: "Poppins", Sans-serif;
+	font-size: 15px;
+	font-weight: 400;
+}
+
+.elementor-1359 .elementor-element.elementor-element-7b7b273c {
+	--spacer-size: 80px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-36d1627a {
+	text-align: center;
+}
+
+.elementor-1359 .elementor-element.elementor-element-36d1627a .elementor-heading-title {
+	color: #d62976;
+	font-family: "Poppins", Sans-serif;
+	font-size: 35px;
+	font-weight: 700;
+}
+
+.elementor-1359 .elementor-element.elementor-element-7e93570d {
+	text-align: center;
+}
+
+.elementor-1359 .elementor-element.elementor-element-7e93570d .elementor-heading-title {
+	color: #d62976;
+	font-family: "Poppins", Sans-serif;
+	font-size: 15px;
+	font-weight: 400;
+}
+
+.elementor-1359 .elementor-element.elementor-element-78c50fa1>.elementor-container {
+	max-width: 1137px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-6ddfc3c8 .elementor-swiper-button.elementor-swiper-button-prev,
+.elementor-1359 .elementor-element.elementor-element-6ddfc3c8 .elementor-swiper-button.elementor-swiper-button-next {
+	font-size: 26px;
+	color: #696969;
+}
+
+.elementor-1359 .elementor-element.elementor-element-6ddfc3c8 .elementor-swiper-button.elementor-swiper-button-prev svg,
+.elementor-1359 .elementor-element.elementor-element-6ddfc3c8 .elementor-swiper-button.elementor-swiper-button-next svg {
+	fill: #696969;
+}
+
+.elementor-1359 .elementor-element.elementor-element-6ddfc3c8 .swiper-pagination-bullet {
+	width: 5px;
+	height: 5px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-6ddfc3c8 .elementor-image-carousel-wrapper .elementor-image-carousel .swiper-slide-image {
+	border-style: solid;
+	border-width: 1px 1px 1px 1px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-608b9fb5:not(.elementor-motion-effects-element-type-background),
+.elementor-1359 .elementor-element.elementor-element-608b9fb5>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+	background-color: #FFFFFF;
+}
+
+.elementor-1359 .elementor-element.elementor-element-608b9fb5>.elementor-container {
+	max-width: 801px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-608b9fb5 {
+	transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-1359 .elementor-element.elementor-element-608b9fb5>.elementor-background-overlay {
+	transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-widget-counter .elementor-counter-number-wrapper {
+	color: var(--e-global-color-primary);
+	font-family: var(--e-global-typography-primary-font-family), Sans-serif;
+	font-weight: var(--e-global-typography-primary-font-weight);
+}
+
+.elementor-widget-counter .elementor-counter-title {
+	color: var(--e-global-color-secondary);
+	font-family: var(--e-global-typography-secondary-font-family), Sans-serif;
+	font-weight: var(--e-global-typography-secondary-font-weight);
+}
+
+.elementor-1359 .elementor-element.elementor-element-71c0c503 .elementor-counter-number-wrapper {
+	color: #d62976;
+	font-family: "Poppins", Sans-serif;
+	font-weight: 600;
+}
+
+.elementor-1359 .elementor-element.elementor-element-71c0c503 .elementor-counter-title {
+	color: #d62976;
+	font-family: "Poppins", Sans-serif;
+	font-weight: 400;
+}
+
+.elementor-1359 .elementor-element.elementor-element-b2a953e .elementor-counter-number-wrapper {
+	color: #d62976;
+	font-family: "Poppins", Sans-serif;
+	font-weight: 600;
+}
+
+.elementor-1359 .elementor-element.elementor-element-b2a953e .elementor-counter-title {
+	color: #d62976;
+	font-family: "Poppins", Sans-serif;
+	font-weight: 400;
+}
+
+.elementor-1359 .elementor-element.elementor-element-2a487273>.elementor-widget-container {
+	margin: 0px 0px 0px 0px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-2a487273 .elementor-counter-number-wrapper {
+	color: #d62976;
+	font-family: "Poppins", Sans-serif;
+	font-weight: 600;
+}
+
+.elementor-1359 .elementor-element.elementor-element-2a487273 .elementor-counter-title {
+	color: #d62976;
+	font-family: "Poppins", Sans-serif;
+	font-weight: 400;
+}
+
+.elementor-1359 .elementor-element.elementor-element-24793b1e {
+	--spacer-size: 10px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-71e65b9b {
+	text-align: center;
+}
+
+.elementor-1359 .elementor-element.elementor-element-71e65b9b .elementor-heading-title {
+	color: #d62976;
+	font-family: "Poppins", Sans-serif;
+	font-size: 35px;
+	font-weight: 700;
+}
+
+.elementor-widget-toggle .elementor-toggle-title,
+.elementor-widget-toggle .elementor-toggle-icon {
+	color: var(--e-global-color-primary);
+}
+
+.elementor-widget-toggle .elementor-toggle-icon svg {
+	fill: var(--e-global-color-primary);
+}
+
+.elementor-widget-toggle .elementor-tab-title.elementor-active a,
+.elementor-widget-toggle .elementor-tab-title.elementor-active .elementor-toggle-icon {
+	color: var(--e-global-color-accent);
+}
+
+.elementor-widget-toggle .elementor-toggle-title {
+	font-family: var(--e-global-typography-primary-font-family), Sans-serif;
+	font-weight: var(--e-global-typography-primary-font-weight);
+}
+
+.elementor-widget-toggle .elementor-tab-content {
+	color: var(--e-global-color-text);
+	font-family: var(--e-global-typography-text-font-family), Sans-serif;
+	font-weight: var(--e-global-typography-text-font-weight);
+}
+
+.elementor-1359 .elementor-element.elementor-element-7d2956db:hover>.elementor-widget-container {
+	border-radius: 0px 0px 0px 0px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-7d2956db .elementor-tab-title {
+	border-width: 0px;
+	border-color: #020101;
+}
+
+.elementor-1359 .elementor-element.elementor-element-7d2956db .elementor-tab-content {
+	border-width: 0px;
+	border-bottom-color: #020101;
+	color: #2F2E2E;
+	font-family: "Poppins", Sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+}
+
+.elementor-1359 .elementor-element.elementor-element-7d2956db .elementor-toggle-item:not(:last-child) {
+	margin-bottom: 7px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-7d2956db .elementor-toggle-item {
+	box-shadow: 0px 0px 2px 1px rgba(181.50000000000003, 176.96250000000003, 176.96250000000003, 0.5);
+}
+
+.elementor-1359 .elementor-element.elementor-element-7d2956db .elementor-toggle-title,
+.elementor-1359 .elementor-element.elementor-element-7d2956db .elementor-toggle-icon {
+	color: #d62976;
+}
+
+.elementor-1359 .elementor-element.elementor-element-7d2956db .elementor-toggle-icon svg {
+	fill: #d62976;
+}
+
+.elementor-1359 .elementor-element.elementor-element-7d2956db .elementor-tab-title.elementor-active a,
+.elementor-1359 .elementor-element.elementor-element-7d2956db .elementor-tab-title.elementor-active .elementor-toggle-icon {
+	color: #d62976;
+}
+
+.elementor-1359 .elementor-element.elementor-element-7d2956db .elementor-toggle-title {
+	font-family: "Poppins", Sans-serif;
+	font-size: 16px;
+	font-weight: 600;
+}
+
+.elementor-1359 .elementor-element.elementor-element-7d2956db .elementor-tab-title.elementor-active .elementor-toggle-icon i:before {
+	color: #d62976;
+}
+
+.elementor-1359 .elementor-element.elementor-element-7d2956db .elementor-tab-title.elementor-active .elementor-toggle-icon svg {
+	fill: #d62976;
+}
+
+.elementor-1359 .elementor-element.elementor-element-7d2956db .elementor-toggle-icon.elementor-toggle-icon-left {
+	margin-right: 0px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-7d2956db .elementor-toggle-icon.elementor-toggle-icon-right {
+	margin-left: 0px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-6f08fc7d {
+	--spacer-size: 10px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-6102a0d9 .elementor-button {
+	background-color: #d62976;
+	font-family: "Poppins", Sans-serif;
+	font-weight: 500;
+	fill: #FFFFFF;
+	color: #FFFFFF;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.elementor-1359 .elementor-element.elementor-element-6102a0d9>.elementor-widget-container {
+	margin: -15px 0px 0px 0px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-6102a0d9 .elementor-button-content-wrapper {
+	flex-direction: row;
+}
+
+.elementor-1359 .elementor-element.elementor-element-10ec1bb2 {
+	--spacer-size: 50px;
+}
+
+.elementor-1359 .elementor-element.elementor-element-4872e8f1:not(.elementor-motion-effects-element-type-background),
+.elementor-1359 .elementor-element.elementor-element-4872e8f1>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+	background-color: #d62976;
+}
+
+.elementor-1359 .elementor-element.elementor-element-4872e8f1 {
+	border-style: solid;
+	border-width: 0px 0px 1px 0px;
+	border-color: #FFFFFF;
+	transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-1359 .elementor-element.elementor-element-4872e8f1>.elementor-background-overlay {
+	transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-1359 .elementor-element.elementor-element-5d93d680 {
+	text-align: center;
+}
+
+.elementor-1359 .elementor-element.elementor-element-5d93d680 .elementor-heading-title {
+	color: #FFFFFF;
+	font-family: "Poppins", Sans-serif;
+	font-size: 10px;
+	font-weight: 300;
+}
+
+.elementor-1359 .elementor-element.elementor-element-45db1b9f {
+	text-align: center;
+}
+
+.elementor-1359 .elementor-element.elementor-element-45db1b9f .elementor-heading-title {
+	color: #FFFFFF;
+	font-family: "Poppins", Sans-serif;
+	font-size: 10px;
+	font-weight: 300;
+}
+
+.elementor-1359 .elementor-element.elementor-element-5a3fdddd {
+	text-align: center;
+	color: #FFFFFF;
+	font-family: "Poppins", Sans-serif;
+	font-size: 10px;
+	font-weight: 300;
+}
+
+.elementor-1359 .elementor-element.elementor-element-104e51d0:not(.elementor-motion-effects-element-type-background),
+.elementor-1359 .elementor-element.elementor-element-104e51d0>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+	background-color: #d62976;
+}
+
+.elementor-1359 .elementor-element.elementor-element-104e51d0 {
+	transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-1359 .elementor-element.elementor-element-104e51d0>.elementor-background-overlay {
+	transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-1359 .elementor-element.elementor-element-5da29c88 {
+	text-align: center;
+}
+
+.elementor-1359 .elementor-element.elementor-element-5da29c88 .elementor-heading-title {
+	color: #FFFFFF;
+	font-family: "Poppins", Sans-serif;
+	font-size: 10px;
+	font-weight: 300;
+}
+
+.elementor-1359 .elementor-element.elementor-element-be919a4 .elementor-menu-toggle {
+	margin: 0 auto;
+}
+
+@media(max-width:767px) {
+	.elementor-1359 .elementor-element.elementor-element-df353cb>.elementor-widget-container {
+		margin: -47px 0px 0px 0px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-df353cb .elementor-nav-menu--dropdown .elementor-item,
+	.elementor-1359 .elementor-element.elementor-element-df353cb .elementor-nav-menu--dropdown .elementor-sub-item {
+		font-size: 12px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-21fef70c>.elementor-shape-bottom svg {
+		width: calc(100% + 1.3px);
+		height: 55px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-352df90d {
+		--spacer-size: 26px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-7d05ff8 {
+		font-size: 15px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-2718d5b8 {
+		text-align: center;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-764f5b7e {
+		font-size: 15px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-c4649ec {
+		--spacer-size: 10px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-c4649ec>.elementor-widget-container {
+		margin: -16px 0px 0px 0px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-179bcabc {
+		--spacer-size: 10px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-62055078 {
+		--spacer-size: 10px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-228ca160 {
+		--spacer-size: 44px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-229cb054 .elementor-heading-title {
+		font-size: 30px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-5e598e26 .elementor-heading-title {
+		font-size: 15px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-468b2533 {
+		--spacer-size: 10px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-3b3f7d9 .elementor-icon-box-description {
+		font-size: 14px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-e22c380 .elementor-icon-box-description {
+		font-size: 14px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-2b4a226d .elementor-icon-box-description {
+		font-size: 14px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-3d6c6e5f .elementor-heading-title {
+		font-size: 30px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-4ce3cc3d .elementor-heading-title {
+		font-size: 15px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-5a90e1 .elementor-price-table__heading {
+		font-size: 32px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-5a90e1 .elementor-price-table__subheading {
+		font-size: 20px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-5a90e1 .elementor-price-table .elementor-price-table__price {
+		font-size: 80px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-5a90e1 .elementor-price-table__features-list li {
+		font-size: 13px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-5a90e1 .elementor-price-table__button {
+		font-size: 22px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-7472d713 .elementor-price-table__heading {
+		font-size: 32px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-7472d713 .elementor-price-table__subheading {
+		font-size: 20px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-7472d713 .elementor-price-table .elementor-price-table__price {
+		font-size: 80px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-7472d713 .elementor-price-table__features-list li {
+		font-size: 13px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-7472d713 .elementor-price-table__button {
+		font-size: 22px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-17ee7b35 .elementor-price-table__heading {
+		font-size: 32px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-17ee7b35 .elementor-price-table__subheading {
+		font-size: 20px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-17ee7b35 .elementor-price-table .elementor-price-table__price {
+		font-size: 80px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-17ee7b35 .elementor-price-table__features-list li {
+		font-size: 13px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-17ee7b35 .elementor-price-table__button {
+		font-size: 22px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-75c3a766 .elementor-price-table__heading {
+		font-size: 32px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-75c3a766 .elementor-price-table__subheading {
+		font-size: 20px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-75c3a766 .elementor-price-table .elementor-price-table__price {
+		font-size: 80px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-75c3a766 .elementor-price-table__features-list li {
+		font-size: 13px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-75c3a766 .elementor-price-table__button {
+		font-size: 22px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-109dde7e .elementor-price-table__heading {
+		font-size: 32px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-109dde7e .elementor-price-table__subheading {
+		font-size: 20px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-109dde7e .elementor-price-table .elementor-price-table__price {
+		font-size: 80px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-109dde7e .elementor-price-table__features-list li {
+		font-size: 13px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-109dde7e .elementor-price-table__button {
+		font-size: 22px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-4e5f5812 .elementor-price-table__heading {
+		font-size: 32px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-4e5f5812 .elementor-price-table__subheading {
+		font-size: 20px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-4e5f5812 .elementor-price-table .elementor-price-table__price {
+		font-size: 80px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-4e5f5812 .elementor-price-table__features-list li {
+		font-size: 13px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-4e5f5812 .elementor-price-table__button {
+		font-size: 22px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-23948bb9 .elementor-price-table__heading {
+		font-size: 32px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-23948bb9 .elementor-price-table__subheading {
+		font-size: 20px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-23948bb9 .elementor-price-table .elementor-price-table__price {
+		font-size: 80px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-23948bb9 .elementor-price-table__features-list li {
+		font-size: 13px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-23948bb9 .elementor-price-table__button {
+		font-size: 22px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-12dcb333 .elementor-price-table__heading {
+		font-size: 32px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-12dcb333 .elementor-price-table__subheading {
+		font-size: 20px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-12dcb333 .elementor-price-table .elementor-price-table__price {
+		font-size: 80px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-12dcb333 .elementor-price-table__features-list li {
+		font-size: 13px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-12dcb333 .elementor-price-table__button {
+		font-size: 22px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-5c856337 .elementor-heading-title {
+		font-size: 30px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-ce983b5 .elementor-heading-title {
+		font-size: 15px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-2c792ee4 .elementor-price-table__heading {
+		font-size: 32px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-2c792ee4 .elementor-price-table__subheading {
+		font-size: 20px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-2c792ee4 .elementor-price-table .elementor-price-table__price {
+		font-size: 80px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-2c792ee4 .elementor-price-table__features-list li {
+		font-size: 13px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-2c792ee4 .elementor-price-table__button {
+		font-size: 22px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-63e3da38 .elementor-price-table__heading {
+		font-size: 32px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-63e3da38 .elementor-price-table__subheading {
+		font-size: 20px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-63e3da38 .elementor-price-table .elementor-price-table__price {
+		font-size: 80px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-63e3da38 .elementor-price-table__features-list li {
+		font-size: 13px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-63e3da38 .elementor-price-table__button {
+		font-size: 22px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-a275d47 .elementor-price-table__heading {
+		font-size: 32px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-a275d47 .elementor-price-table__subheading {
+		font-size: 20px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-a275d47 .elementor-price-table .elementor-price-table__price {
+		font-size: 80px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-a275d47 .elementor-price-table__features-list li {
+		font-size: 13px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-a275d47 .elementor-price-table__button {
+		font-size: 22px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-740c646f .elementor-price-table__heading {
+		font-size: 32px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-740c646f .elementor-price-table__subheading {
+		font-size: 20px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-740c646f .elementor-price-table .elementor-price-table__price {
+		font-size: 80px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-740c646f .elementor-price-table__features-list li {
+		font-size: 13px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-740c646f .elementor-price-table__button {
+		font-size: 22px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-3ea46d1a .elementor-heading-title {
+		font-size: 30px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-5d1eec2a .elementor-heading-title {
+		font-size: 15px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-15799fed {
+		--spacer-size: 40px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-7adce95c {
+		--spacer-size: 10px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-459ba803 .elementor-heading-title {
+		font-size: 30px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-6f6c30f7 .elementor-heading-title {
+		font-size: 15px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-7b7b273c {
+		--spacer-size: 40px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-36d1627a .elementor-heading-title {
+		font-size: 30px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-7e93570d .elementor-heading-title {
+		font-size: 15px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-71c0c503 .elementor-counter-number-wrapper {
+		font-size: 50px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-71c0c503 .elementor-counter-title {
+		font-size: 15px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-b2a953e .elementor-counter-number-wrapper {
+		font-size: 50px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-b2a953e .elementor-counter-title {
+		font-size: 15px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-2a487273 .elementor-counter-number-wrapper {
+		font-size: 50px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-2a487273 .elementor-counter-title {
+		font-size: 15px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-71e65b9b .elementor-heading-title {
+		font-size: 30px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-7d2956db .elementor-toggle-title {
+		font-size: 15px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-7d2956db .elementor-tab-content {
+		font-size: 12px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-10ec1bb2 {
+		--spacer-size: 10px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-5d93d680 .elementor-heading-title {
+		font-size: 10px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-45db1b9f .elementor-heading-title {
+		font-size: 10px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-5a3fdddd {
+		font-size: 10px;
+	}
+
+	.elementor-1359 .elementor-element.elementor-element-5da29c88 .elementor-heading-title {
+		font-size: 10px;
+	}
+
+}
+
