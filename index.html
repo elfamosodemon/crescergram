@@ -636,7 +636,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<div class="popup-content">
 	  <div class="popup-header">
 		<!-- Botão de fechar -->
-		<button class="close-btn" onclick="document.getElementById('popup1').style.display='none'">�</button>
+		<button class="close-btn" onclick="document.getElementById('popup1').style.display='none'">X</button>
 		<!-- Logo -->
 		<img src="images/LOGO-NOVA.png" alt="Logo" class="popup-logo">
 	  </div>
@@ -759,7 +759,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 						<div class="popup-content">
 						  <div class="popup-header">
 							<!-- Botão de fechar -->
-							<button class="close-btn" onclick="document.getElementById('popup2').style.display='none'">�</button>
+							<button class="close-btn" onclick="document.getElementById('popup2').style.display='none'">X</button>
 							<!-- Logo -->
 							<img src="images/LOGO-NOVA.png" alt="Logo" class="popup-logo">
 						  </div>
@@ -880,7 +880,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 						<div class="popup-content">
 						  <div class="popup-header">
 							<!-- Botão de fechar -->
-							<button class="close-btn" onclick="document.getElementById('popup3').style.display='none'">�</button>
+							<button class="close-btn" onclick="document.getElementById('popup3').style.display='none'">X</button>
 							<!-- Logo -->
 							<img src="images/LOGO-NOVA.png" alt="Logo" class="popup-logo">
 						  </div>
@@ -2757,7 +2757,7 @@ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false
 	  width: 85%;
 	  padding: 14px;
 	  margin-bottom: 25px;
-	  border-radius: 32px;8px;
+	  border-radius: 32px 8px;
 	  border: 1px solid #F5F5F5;
 	  background-color: #FFF;
 	  color: #333;
@@ -2768,7 +2768,7 @@ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false
 	  background-image: linear-gradient(180deg, #39ff14 0%, #007a2e 100%); /* Botão Verde */
 	  color: #FFF;
 	  border: none;
-	  border-radius: 32px;10px;
+	  border-radius: 32px 10px;
 	  cursor: pointer;
 	  font-weight: bold;
 	  transition: background-color 0.3s ease;
@@ -2800,7 +2800,7 @@ box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
   background-color: #28A745; /* Botão Verde */
   color: #FFF;
   border: none;
-  border-radius: 32px;10px;
+  border-radius: 32px 10px;
   cursor: pointer;
   font-weight: bold;
   transition: background-color 0.3s ease;
@@ -2945,15 +2945,30 @@ box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
 	});
   </script>
   
-
-
+  <style>
+	/* Ajuste para alinhar o popup à esquerda */
+	.popup {
+	  display: none; /* Oculto por padrão */
+	  position: fixed;
+	  top: 50%; /* Centraliza verticalmente */
+	  left: 0; /* Alinha à esquerda */
+	  transform: translateY(-50%); /* Ajusta o ponto de referência para o centro vertical */
+	  width: 90%; /* Ajusta a largura para caber em telas menores */
+	  max-width: 450px; /* Define um limite máximo de largura */
+	  height: auto; /* Ajusta a altura automaticamente */
+	  background-color: rgba(0, 0, 0, 0.6); /* Fundo semitransparente */
+	  justify-content: center;
+	  align-items: center;
+	  z-index: 1000;
+	}
   
-
-
-
-
-
-
-	
-
+	.popup-content {
+	  background: linear-gradient(120deg, #d62976 0%, #fa7e1e 100%);
+	  padding: 20px;
+	  border-radius: 12px;
+	  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+	  text-align: center;
+	  color: white;
+	}
+  </style>
 </body></html>
