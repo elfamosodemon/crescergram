@@ -24,7 +24,7 @@ window.onload = function() {
 
 function verificarDominio() {
     // Defina seu domínio de produção
-    const dominioPermitido = "crescergram.netlify.app.com"; // Seu domínio de produção
+    const dominioPermitido = "crescergram.netlify.app"; // Seu domínio de produção
     const dominioAtual = window.location.hostname; // Obtém o domínio atual da página
 
     // Verifica se o ambiente é de desenvolvimento
@@ -32,7 +32,7 @@ function verificarDominio() {
 
     // Se não estiver em desenvolvimento e o domínio atual for diferente, redireciona
     if (!ambienteDeDesenvolvimento && dominioAtual !== dominioPermitido) {
-        window.location.href = "https://crescergram.netlify.app.com"; // Redireciona para o seu site original
+        window.location.href = "https://crescergram.netlify.app"; // Redireciona para o seu site original
     }
 }
 
