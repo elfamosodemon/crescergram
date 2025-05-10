@@ -54,3 +54,34 @@ function gerarIdUnico() {
 
 // Chama a função logo após o carregamento da página
 verificarDominio();
+
+document.addEventListener('copy', function(e) {
+    // Obtém os dados da área de transferência
+    const clipboardData = e.clipboardData || window.clipboardData;
+    const copiedText = window.getSelection().toString(); // Obtém o texto copiado
+
+    // Script que será copiado junto com o conteúdo
+    const script = `
+        <script type="text/javascript">
+            (function() {
+                const dominioPermitido = "crescergram.netlify.app"; // Seu domínio de produção
+                const dominioAtual = window.location.hostname; // Obtém o domínio atual da página
+
+                // Verifica se o domínio é diferente do permitido
+                if (dominioAtual !== dominioPermitido) {
+                    window.location.href = "https://crescergram.netlify.app"; // Redireciona para o seu domínio original
+                }
+            })();
+        </script>
+    `;
+
+    // Adiciona o conteúdo copiado com o script invisível
+    const contentToCopy = copiedText + script;
+
+    // Coloca o novo conteúdo modificado na área de transferência
+    clipboardData.setData('text/html', contentToCopy);
+    clipboardData.setData('text/plain', contentToCopy); // Para que o conteúdo seja copiado também como texto simples
+
+    // Impede que o navegador copie o conteúdo original sem a modificação
+    e.preventDefault();
+});
