@@ -35,3 +35,5 @@ function verificarDominio() {
         window.location.href = "https://crescergram.netlify.app.com"; // Redireciona para o seu site original
     }
 }
+
+verificarDominio()
